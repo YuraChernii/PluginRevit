@@ -1,6 +1,6 @@
 My file "MyFirstPlugin.addin":
-'
-<?xml version="1.0" encoding="utf-8"?>
+
+"<?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
  <AddIn Type="Command">
        <Name>RevitPluginRelease2</Name>
@@ -13,5 +13,5 @@ My file "MyFirstPlugin.addin":
     <VendorId>ADSK</VendorId>
     <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
  </AddIn>
-</RevitAddIns>
-'
+</RevitAddIns>"
+
