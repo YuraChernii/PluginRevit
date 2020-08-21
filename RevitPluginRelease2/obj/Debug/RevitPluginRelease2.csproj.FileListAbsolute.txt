@@ -1,0 +1,6 @@
+D:\Users\HP\source\repos\RevitPluginRelease2\RevitPluginRelease2\bin\Debug\RevitPluginRelease2.dll
+D:\Users\HP\source\repos\RevitPluginRelease2\RevitPluginRelease2\bin\Debug\RevitPluginRelease2.pdb
+D:\Users\HP\source\repos\RevitPluginRelease2\RevitPluginRelease2\obj\Debug\RevitPluginRelease2.csprojAssemblyReference.cache
+D:\Users\HP\source\repos\RevitPluginRelease2\RevitPluginRelease2\obj\Debug\RevitPluginRelease2.csproj.CoreCompileInputs.cache
+D:\Users\HP\source\repos\RevitPluginRelease2\RevitPluginRelease2\obj\Debug\RevitPluginRelease2.dll
+D:\Users\HP\source\repos\RevitPluginRelease2\RevitPluginRelease2\obj\Debug\RevitPluginRelease2.pdb
