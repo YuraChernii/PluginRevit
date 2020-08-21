@@ -1,4 +1,4 @@
-My file "MyFirstPlugin.addin":
+My file "MyFirstPlugin.addin"(Please click raw):
 
 "<?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
